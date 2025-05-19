@@ -1,4 +1,4 @@
-a=(input())
+a=ABHISHEK
 # print("Enter your name: ")
 b ="Abhishek"
 c ="abhishek"
